@@ -1,0 +1,37 @@
+[
+  {
+    "id": "LOGIN-03",
+    "title": "usuario bloqueado",
+    "username": "locked_out_user",
+    "password": "secret_sauce",
+    "expectedError": "Epic sadface: Sorry, this user has been locked out."
+  },
+  {
+    "id": "LOGIN-04",
+    "title": "contraseña incorrecta",
+    "username": "standard_user",
+    "password": "clave_incorrecta",
+    "expectedError": "Epic sadface: Username and password do not match any user in this service"
+  },
+  {
+    "id": "LOGIN-05",
+    "title": "usuario vacío",
+    "username": "",
+    "password": "secret_sauce",
+    "expectedError": "Epic sadface: Username is required"
+  },
+  {
+    "id": "LOGIN-06",
+    "title": "contraseña vacía",
+    "username": "standard_user",
+    "password": "",
+    "expectedError": "Epic sadface: Password is required"
+  },
+  {
+    "id": "LOGIN-07",
+    "title": "usuario inexistente",
+    "username": "usuario_que_no_existe",
+    "password": "secret_sauce",
+    "expectedError": "Epic sadface: Username and password do not match any user in this service"
+  }
+]
