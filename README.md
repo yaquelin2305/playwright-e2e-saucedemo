@@ -104,4 +104,4 @@ Playwright · TypeScript · axe-core · Allure Report · GitHub Actions · GitHu
 ---
 
 👩‍💻 **Yaquelin Rugel Alvarado**, QA Automation Jr ·
-[LinkedIn](https://linkedin.com/in/yaquelin-rugel) · [GitHub](https://github.com/yaquelin2305)
+[LinkedIn](https://www.linkedin.com/in/yaquelin-rugel-alvarado-67a4a942b) · [GitHub](https://github.com/yaquelin2305)
